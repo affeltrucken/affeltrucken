@@ -1,6 +1,6 @@
 # Hi, I'm Aldin
 
-I am an IT Security Student at IT-Högskolan in Stockholm, specializing in **Network Penetration** and **Web Security**. 
+I am an IT Security Student at IT-Högskolan, specializing in **Network Penetration** and **Web Security**. 
 
 ---
 
